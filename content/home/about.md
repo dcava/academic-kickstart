@@ -2,7 +2,7 @@
 # About/Biography widget.
 widget = "about"
 active = true
-date = 2016-04-20T00:00:00
+date = 2018-04-20T00:00:00
 
 # Order that this section will appear in.
 weight = 5
@@ -10,31 +10,33 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Hepatopancreaticobiliary surgery",
+    "Surgical Oncology",
+    "Biostatistics"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "Masters in Biostatistics"
+  institution = "University of Queensland"
+  year = 2016
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "Bachelor of Medicine, Bachelor of Surgery"
+  institution = "University of Queensland"
+  year = 2001
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "BSc"
+  institution = "University of Queensland"
+  year = 1998
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+David Cavallucci is an Hepato-pancreatico-biliary surgical oncologist. After obtaining his Fellowship with the Royal Australasian College of Surgeons he completed the two year ANZHPBA post-fellowship program in HPB surgery followed by a further two year surgical oncology and abdominal transplantation Fellowship at the University of Toronto.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+He has a special interest in minimally invasive pancreatic surgery with a broad experience of laparoscopic surgery and developing robotic surgery. Outside of oncology, he manages benign biliary disease including the laparoscopic management of bile duct stones and the surgical management of acute and chronic pancreatitis. 
+
+Recently completing his Master's degree in Biostatistics, he has published on the use of Propensity Scores and novel weighting techniques in observational surgical research. He is active in teaching medical students and trainees, and maintains a strong interest in clinical and translational research.
